@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import SideNav from './layouts/Sidenav';
 import './App.css';
+import 'w3-css/w3.css';
 import Login from './pages/login';
 import {HashRouter,Switch,Route,Routes} from 'react-router-dom'
 import {router} from './routes'
